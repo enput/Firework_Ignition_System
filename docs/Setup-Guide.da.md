@@ -40,15 +40,15 @@ Denne manual guider dig trin-for-trin i at bygge et trådløst fyrværkerikontro
 
 | Komponent                 | Beskrivelse                                    | Link                  |
 |---------------------------|------------------------------------------------|-----------------------|
-| **ESP32 Udviklingsboard** | Wi-Fi og Bluetooth kapabel mikrokontroller    | [Køb her](#https://www.aliexpress.com/item/1005006456519790.html)           |
-| **Relæmodul**             | 4-kanals relæmodul anbefales                   | [Køb her](#https://www.aliexpress.com/item/1005002867727977.html)           |
-| **Nichrometråd**          | 0.1mm til E-matches                             | [Køb her](#https://www.aliexpress.com/item/1005005947832471.html)           |
-| **E-match Ledninger**     | Forbindelse til E-matches                       | [Køb her](#https://www.aliexpress.com/item/1005001552897167.html)           |
+| **ESP32 Udviklingsboard** | Wi-Fi og Bluetooth kapabel mikrokontroller    | [Køb her](https://www.aliexpress.com/item/1005006456519790.html)           |
+| **Relæmodul**             | 4-kanals relæmodul anbefales                   | [Køb her](https://www.aliexpress.com/item/1005002867727977.html)           |
+| **Nichrometråd**          | 0.1mm til E-matches                             | [Køb her](https://www.aliexpress.com/item/1005005947832471.html)           |
+| **E-match Ledninger**     | Forbindelse til E-matches                       | [Køb her](https://www.aliexpress.com/item/1005001552897167.html)           |
 | **12V Batteri**           | Mindst 6A kapacitet til drift af systemet       | [Køb her](#)           |
 | **LED med Modstand**      | Indikator LED (hvis nødvendigt)                 | [Køb her](#)           |
-| **Jumpertråde**           | Han-til-han og han-til-hun jumpertråde          | [Køb her](#https://www.aliexpress.com/item/1005005501503609.html)           |
-| **Breadboard**            | Til prototyping og forbindelser                  | [Køb her](#https://www.aliexpress.com/item/32865122971.html)           |
-| **DC-DC Stepdown-Modul**  | For at sikre korrekt spænding til komponenter     | [Køb her](#https://www.aliexpress.com/item/1005006149348817.html)           |
+| **Jumpertråde**           | Han-til-han og han-til-hun jumpertråde          | [Køb her](https://www.aliexpress.com/item/1005005501503609.html)           |
+| **Breadboard**            | Til prototyping og forbindelser                  | [Køb her](https://www.aliexpress.com/item/32865122971.html)           |
+| **DC-DC Stepdown-Modul**  | For at sikre korrekt spænding til komponenter     | [Køb her](https://www.aliexpress.com/item/1005006149348817.html)           |
 
 ---
 
@@ -216,14 +216,14 @@ Før du begynder, sørg for at have alle materialerne klar og et arbejdsområde,
 
 ## Materialelinks
 
-- **ESP32 Udviklingsboard (Wi-Fi):** [Køb her](#https://www.aliexpress.com/item/1005006456519790.html)
-- **Relæmodul (4 kanaler eller mere):** [Køb her](#https://www.aliexpress.com/item/1005002867727977.html)
-- **Nichrometråd (0.1mm):** [Køb her](#https://www.aliexpress.com/item/1005005947832471.html)
-- **E-match Ledninger (minimum 20AWG):** [Køb her](#https://www.aliexpress.com/item/1005001552897167.html)
-- **DC-DC Stepdown-Modul (3-12V):** [Køb her](#https://www.aliexpress.com/item/1005006149348817.html)
-- **Breadboard:** [Køb her](#https://www.aliexpress.com/item/32865122971.html)
-- **Han-til-han Jumpertråde (10 stk):** [Køb her](#https://www.aliexpress.com/item/1005005501503609.html)
-- **Han-til-hun Jumpertråde (10 stk):** [Køb her](#https://www.aliexpress.com/item/1005005501503609.html)
+- **ESP32 Udviklingsboard (Wi-Fi):** [Køb her](https://www.aliexpress.com/item/1005006456519790.html)
+- **Relæmodul (4 kanaler eller mere):** [Køb her](https://www.aliexpress.com/item/1005002867727977.html)
+- **Nichrometråd (0.1mm):** [Køb her](https://www.aliexpress.com/item/1005005947832471.html)
+- **E-match Ledninger (minimum 20AWG):** [Køb her](https://www.aliexpress.com/item/1005001552897167.html)
+- **DC-DC Stepdown-Modul (3-12V):** [Køb her](https://www.aliexpress.com/item/1005006149348817.html)
+- **Breadboard:** [Køb her](https://www.aliexpress.com/item/32865122971.html)
+- **Han-til-han Jumpertråde (10 stk):** [Køb her](https://www.aliexpress.com/item/1005005501503609.html)
+- **Han-til-hun Jumpertråde (10 stk):** [Køb her](https://www.aliexpress.com/item/1005005501503609.html)
 
 ---
 
