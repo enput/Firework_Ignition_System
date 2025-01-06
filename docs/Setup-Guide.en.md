@@ -40,15 +40,15 @@ This manual provides a step-by-step guide to building a wireless fireworks ignit
 
 | Component                 | Description                                     | Link                  |
 |---------------------------|-------------------------------------------------|-----------------------|
-| **ESP32 Development Board** | Wi-Fi and Bluetooth capable microcontroller    | [Buy here](#)           |
-| **Relay Module**             | 4-channel relay module recommended              | [Buy here](#)           |
-| **Nichrome Wire**          | 0.1mm for E-matches                              | [Buy here](#)           |
-| **E-match Wires**     | Connection to E-matches                        | [Buy here](#)           |
+| **ESP32 Development Board** | Wi-Fi and Bluetooth capable microcontroller    | [Buy here](https://www.aliexpress.com/item/1005006456519790.html)           |
+| **Relay Module**             | 4-channel relay module recommended              | [Buy here](https://www.aliexpress.com/item/1005002867727977.html)           |
+| **Nichrome Wire**          | 0.1mm for E-matches                              | [Buy here](https://www.aliexpress.com/item/1005005947832471.html)           |
+| **E-match Wires**     | Connection to E-matches                        | [Buy here](https://www.aliexpress.com/item/1005001552897167.html)           |
 | **12V Battery**           | At least 6A capacity to power the system        | [Buy here](#)           |
 | **LED with Resistor**      | Indicator LED (if necessary)                    | [Buy here](#)           |
-| **Jumper Wires**           | Male-to-male and male-to-female jumper wires    | [Buy here](#)           |
-| **Breadboard**            | For prototyping and connections                  | [Buy here](#)           |
-| **DC-DC Stepdown Module**  | To ensure correct voltage for components         | [Buy here](#)           |
+| **Jumper Wires**           | Male-to-male and male-to-female jumper wires    | [Buy here](https://www.aliexpress.com/item/1005005501503609.html)           |
+| **Breadboard**            | For prototyping and connections                  | [Buy here](https://www.aliexpress.com/item/32865122971.html)           |
+| **DC-DC Stepdown Module**  | To ensure correct voltage for components         | [Buy here](https://www.aliexpress.com/item/1005006149348817.html)           |
 
 ---
 
@@ -216,14 +216,14 @@ Before you begin, ensure you have all the materials ready and a workspace that i
 
 ## Material Links
 
-- **ESP32 Development Board (Wi-Fi):** [Buy here](#)
-- **Relay Module (4 channels or more):** [Buy here](#)
-- **Nichrome Wire (0.1mm):** [Buy here](#)
-- **E-match Wires (minimum 20AWG):** [Buy here](#)
-- **DC-DC Stepdown Module (3-12V):** [Buy here](#)
-- **Breadboard:** [Buy here](#)
-- **Male-to-Male Jumper Wires (10 pcs):** [Buy here](#)
-- **Male-to-Female Jumper Wires (10 pcs):** [Buy here](#)
+- **ESP32 Development Board (Wi-Fi):** [Buy here](https://www.aliexpress.com/item/1005006456519790.html)
+- **Relay Module (4 channels or more):** [Buy here](https://www.aliexpress.com/item/1005002867727977.html)
+- **Nichrome Wire (0.1mm):** [Buy here](https://www.aliexpress.com/item/1005005947832471.html)
+- **E-match Wires (minimum 20AWG):** [Buy here](https://www.aliexpress.com/item/1005001552897167.html)
+- **DC-DC Stepdown Module (3-12V):** [Buy here](https://www.aliexpress.com/item/1005006149348817.html)
+- **Breadboard:** [Buy here](https://www.aliexpress.com/item/32865122971.html)
+- **Male-to-Male Jumper Wires (10 pcs):** [Buy here](https://www.aliexpress.com/item/1005005501503609.html)
+- **Male-to-Female Jumper Wires (10 pcs):** [Buy here](https://www.aliexpress.com/item/1005005501503609.html)
 
 ---
 
