@@ -40,15 +40,15 @@ Dieses Handbuch bietet eine Schritt-für-Schritt-Anleitung zum Aufbau eines drah
 
 | Komponente                 | Beschreibung                                     | Link                  |
 |---------------------------|-------------------------------------------------|-----------------------|
-| **ESP32 Entwicklungsboard** | Wi-Fi und Bluetooth fähiger Mikrocontroller    | [Hier kaufen](#)           |
-| **Relaismodul**             | 4-Kanal-Relaismodul empfohlen                  | [Hier kaufen](#)           |
-| **Nichtelementdraht**          | 0,1 mm für E-Matches                              | [Hier kaufen](#)           |
-| **E-Match Leitungen**     | Verbindung zu E-Matches                        | [Hier kaufen](#)           |
+| **ESP32 Entwicklungsboard** | Wi-Fi und Bluetooth fähiger Mikrocontroller    | [Hier kaufen](https://www.aliexpress.com/item/1005006456519790.html)           |
+| **Relaismodul**             | 4-Kanal-Relaismodul empfohlen                  | [Hier kaufen](https://www.aliexpress.com/item/1005002867727977.html)           |
+| **Nichtelementdraht**          | 0,1 mm für E-Matches                              | [Hier kaufen](https://www.aliexpress.com/item/1005005947832471.html)           |
+| **E-Match Leitungen**     | Verbindung zu E-Matches                        | [Hier kaufen](https://www.aliexpress.com/item/1005001552897167.html)           |
 | **12V Batterie**           | Mindestens 6A Kapazität zur Stromversorgung des Systems       | [Hier kaufen](#)           |
 | **LED mit Widerstand**      | Anzeige-LED (falls erforderlich)                    | [Hier kaufen](#)           |
-| **Jumper Kabel**           | Male-to-Male und Male-to-Female Jumper Kabel    | [Hier kaufen](#)           |
-| **Breadboard**            | Für Prototyping und Verbindungen                  | [Hier kaufen](#)           |
-| **DC-DC Stepdown Modul**  | Zur Sicherstellung der korrekten Spannung für die Komponenten         | [Hier kaufen](#)           |
+| **Jumper Kabel**           | Male-to-Male und Male-to-Female Jumper Kabel    | [Hier kaufen](https://www.aliexpress.com/item/1005005501503609.html)           |
+| **Breadboard**            | Für Prototyping und Verbindungen                  | [Hier kaufen](https://www.aliexpress.com/item/32865122971.html)           |
+| **DC-DC Stepdown Modul**  | Zur Sicherstellung der korrekten Spannung für die Komponenten         | [Hier kaufen](https://www.aliexpress.com/item/1005006149348817.html)           |
 
 ---
 
@@ -216,14 +216,14 @@ Bevor Sie beginnen, stellen Sie sicher, dass Sie alle Materialien bereit haben u
 
 ## Materiallinks
 
-- **ESP32 Entwicklungsboard (Wi-Fi):** [Hier kaufen](#)
-- **Relaismodul (4 Kanäle oder mehr):** [Hier kaufen](#)
-- **Nichtelementdraht (0,1 mm):** [Hier kaufen](#)
-- **E-Match Leitungen (mindestens 20AWG):** [Hier kaufen](#)
-- **DC-DC Stepdown Modul (3-12V):** [Hier kaufen](#)
-- **Breadboard:** [Hier kaufen](#)
-- **Male-to-Male Jumper Kabel (10 Stück):** [Hier kaufen](#)
-- **Male-to-Female Jumper Kabel (10 Stück):** [Hier kaufen](#)
+- **ESP32 Entwicklungsboard (Wi-Fi):** [Hier kaufen](https://www.aliexpress.com/item/1005006456519790.html)
+- **Relaismodul (4 Kanäle oder mehr):** [Hier kaufen](https://www.aliexpress.com/item/1005002867727977.html)
+- **Nichtelementdraht (0,1 mm):** [Hier kaufen](https://www.aliexpress.com/item/1005005947832471.html)
+- **E-Match Leitungen (mindestens 20AWG):** [Hier kaufen](https://www.aliexpress.com/item/1005001552897167.html)
+- **DC-DC Stepdown Modul (3-12V):** [Hier kaufen](https://www.aliexpress.com/item/1005006149348817.html)
+- **Breadboard:** [Hier kaufen](https://www.aliexpress.com/item/32865122971.html)
+- **Male-to-Male Jumper Kabel (10 Stück):** [Hier kaufen](https://www.aliexpress.com/item/1005005501503609.html)
+- **Male-to-Female Jumper Kabel (10 Stück):** [Hier kaufen](https://www.aliexpress.com/item/1005005501503609.html)
 
 ---
 
