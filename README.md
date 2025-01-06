@@ -1,4 +1,6 @@
 # Firework_Ignition_System
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/enput/Firework_Ignition_System)
 
 Welcome to the **Firework Ignition System** project! This is an innovative system designed to safely and wirelessly control firework ignitions using an ESP32 microcontroller. The system allows users to connect via Wi-Fi and execute commands for firing individual channels. It's built with user safety and functionality in mind, featuring test modes, connection monitoring, and a responsive web interface.
 
