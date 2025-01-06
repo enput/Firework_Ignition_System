@@ -1,7 +1,7 @@
 # ESP32 Wireless Fireworks Ignition System 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/brugernavn/repository)
+![GitHub last commit](https://img.shields.io/github/last-commit/enput/Firework_Ignition_System)
 
 ## Introduction
 
