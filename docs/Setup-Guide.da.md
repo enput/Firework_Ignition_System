@@ -1,7 +1,7 @@
 # ESP32 Trådløst Fyrværkeri Affyrings System
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/enput/Firework_Ignition_System)
+![GitHub last commit](https://img.shields.io/github/last-commit/enput/Firework_Ignition_System/main/dosc/Setup-Guide.da.md)
 
 ## Introduktion
 
