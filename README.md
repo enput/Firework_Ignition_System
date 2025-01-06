@@ -1,4 +1,4 @@
-# Firework_Ignition_System
+# Wireless Firework_Ignition_System
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/enput/Firework_Ignition_System)
 
